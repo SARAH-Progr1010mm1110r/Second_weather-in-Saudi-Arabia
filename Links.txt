@@ -1,0 +1,13 @@
+Blog link
+
+https://medium.com/@nadaoteif/weather-forecasting-model-in-saudi-arabia-b51e2395b608
+
+-------------------------------------------------
+
+Link of first dataset 
+Saudi Arabia Hourly Climate Integrated Surface Data — KAPSARC Data Portal
+
+------------------------------
+
+Secound dataset in zip file
+All_data_with_climate
